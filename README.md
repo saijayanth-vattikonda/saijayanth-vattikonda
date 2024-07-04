@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Web Development, Competitive Programming, AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://saijayanth-portfolio.netlify.app/](https://saijayanth-portfolio.netlify.app/)
+- 👨‍💻 Portfolio: 
+-  [https://saijayanth-portfolio.netlify.app/](https://saijayanth-portfolio.netlify.app/)
 
 - 💬 Exploring **Data Structures and Algorithms**
 
