@@ -7,14 +7,22 @@
 
 - 🌱 I’m currently learning **Web Development, Competitive Programming, AI/ML**
 
-- 👨‍💻 Portfolio: 
--  [https://saijayanth-portfolio.netlify.app/](https://saijayanth-portfolio.netlify.app/)
-
 - 💬 Exploring **Data Structures and Algorithms**
 
-- 📫 How to reach me **vattikondasaijayanth@gmail.com**
+- 👨‍💻 Portfolio: [https://saijayanth-portfolio.netlify.app/](https://saijayanth-portfolio.netlify.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C6eBFfZoeT23Yy3oJH5Pd0fHj0DfaDrl/view?usp=sharing](https://drive.google.com/file/d/1C6eBFfZoeT23Yy3oJH5Pd0fHj0DfaDrl/view?usp=sharing)
+- 📫 Reach me at:  **vattikondasaijayanth@gmail.com**
+
+- 📄 Resume: [https://drive.google.com/file/d/1C6eBFfZoeT23Yy3oJH5Pd0fHj0DfaDrl/view?usp=sharing](https://drive.google.com/file/d/1C6eBFfZoeT23Yy3oJH5Pd0fHj0DfaDrl/view?usp=sharing)
+
+<h3 align="left">Education:</h3>
+<p align="left">
+  <p>Vellore Institute Of Technology, Vellore(2021-2025)</p>
+  <ul>
+    <li> Bachelor Of Technology - Information Technology</li>
+    <li>CGPA: 9.32</li>
+  </ul>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
