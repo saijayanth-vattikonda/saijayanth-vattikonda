@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sai Jayanth</h1>
+<h3 align="center">IT student at VIT Vellore | Web Developer | Competitive Programmer</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saijayanth-vattikonda&label=Profile%20views&color=0e75b6&style=flat" alt="saijayanth-vattikonda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saijayanth-vattikonda" alt="saijayanth-vattikonda" /></a> </p>
+
+- 🌱 I’m currently learning **Web Development, Competitive Programming, AI/ML**
+
+- 👨‍💻 All of my projects are available at [https://saijayanth-portfolio.netlify.app/](https://saijayanth-portfolio.netlify.app/)
+
+- 💬 Exploring **Data Structures and Algorithms**
+
+- 📫 How to reach me **vattikondasaijayanth@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1C6eBFfZoeT23Yy3oJH5Pd0fHj0DfaDrl/view?usp=sharing](https://drive.google.com/file/d/1C6eBFfZoeT23Yy3oJH5Pd0fHj0DfaDrl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
