@@ -13,7 +13,7 @@
 
 - 📫 Reach me at:  **vattikondasaijayanth@gmail.com**
 
-- 📄 Resume: [https://drive.google.com/file/d/1C6eBFfZoeT23Yy3oJH5Pd0fHj0DfaDrl/view?usp=sharing](https://drive.google.com/file/d/1-39_DVIP8KL9M3Pua1sNswOnR56J31UK/view?usp=sharing)
+- 📄 Resume: [[https://drive.google.com/file/d/1C6eBFfZoeT23Yy3oJH5Pd0fHj0DfaDrl/view?usp=sharing](https://drive.google.com/file/d/16JFyIEJn8aX76Jx3E50ftzmAin9v_LsO/view?usp=sharing)](https://drive.google.com/file/d/1-39_DVIP8KL9M3Pua1sNswOnR56J31UK/view?usp=sharing)
 
 <h3 align="left">Education:</h3>
 <p align="left">
